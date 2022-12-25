@@ -1,3 +1,7 @@
 "use strict";
 
-console.log("Hello all");
+const logger = () => {
+  console.log("Hello people");
+};
+
+logger();
